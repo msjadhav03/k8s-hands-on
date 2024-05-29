@@ -16,21 +16,21 @@ A brief description of what your project does and why it is useful.
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-## What is Kubernetes 💻
+## What is Kubernetes 🦕
 - Open source
 - Container orchestration tool
 - Helps to manage containerized applications in different deployment environments
 
-## What problems kubernetes solve? 💻
+## What problems kubernetes solve? 🥊
 - The need of orchestration tool
 - Trend from monolithic to microservices
 
-## What are the tasks of an orchestration tool?💻
+## What are the tasks of an orchestration tool? 🪃
 - High availability or no downtime
 - Scalability or high performance
 - Diasaster revovery - backup and restore
 
-## Kubernetes Components
+## Kubernetes Components ⛓️
 - Pod
     - Smallest unit of k8s
     - abstraction over container
